@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Position Manager</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <main>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <h1>Position Manager</h1>
+      <select id="product-select" style="font-size: 16px; padding: 6px;">
+        <option value="CL" selected>CL (Crude)</option>
+        <option value="HO">HO (Heat)</option>
+        <option value="RB">RB (RBOB)</option>
+        <option value="QA">QA (Brent)</option>
+      </select>
+    </div>
+
+    <div id="table-wrap">
+      <div id="positions-grid">
+        <!-- Grid will be rendered here by app.js -->
+        <div class="loading">Loading…</div>
+      </div>
+    </div>
+
+    <div class="controls">
+      <p class="note">Data is loaded from the backend API (`/api/positions/{product}`) which reads the corresponding
+        table in
+        the database. The UI refreshes automatically.</p>
+      <div id="selection-panel"></div>
+    </div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+
+</html>

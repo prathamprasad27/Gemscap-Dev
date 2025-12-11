@@ -1,0 +1,102 @@
+[
+  {
+    "contract": "F26",
+    "lots": -5
+  },
+  {
+    "contract": "F27",
+    "lots": -5
+  },
+  {
+    "contract": "G26",
+    "lots": 3
+  },
+  {
+    "contract": "G27",
+    "lots": 3
+  },
+  {
+    "contract": "H26",
+    "lots": -5
+  },
+  {
+    "contract": "H27",
+    "lots": -5
+  },
+  {
+    "contract": "J26",
+    "lots": 3
+  },
+  {
+    "contract": "J27",
+    "lots": 3
+  },
+  {
+    "contract": "K26",
+    "lots": -5
+  },
+  {
+    "contract": "K27",
+    "lots": -5
+  },
+  {
+    "contract": "M26",
+    "lots": 3
+  },
+  {
+    "contract": "M27",
+    "lots": 3
+  },
+  {
+    "contract": "N26",
+    "lots": -5
+  },
+  {
+    "contract": "N27",
+    "lots": -5
+  },
+  {
+    "contract": "Q26",
+    "lots": 3
+  },
+  {
+    "contract": "Q27",
+    "lots": 3
+  },
+  {
+    "contract": "U26",
+    "lots": -5
+  },
+  {
+    "contract": "U27",
+    "lots": -5
+  },
+  {
+    "contract": "V26",
+    "lots": 3
+  },
+  {
+    "contract": "V27",
+    "lots": 3
+  },
+  {
+    "contract": "X26",
+    "lots": -5
+  },
+  {
+    "contract": "X27",
+    "lots": -5
+  },
+  {
+    "contract": "Z25",
+    "lots": 3
+  },
+  {
+    "contract": "Z26",
+    "lots": 3
+  },
+  {
+    "contract": "Z27",
+    "lots": 3
+  }
+]
